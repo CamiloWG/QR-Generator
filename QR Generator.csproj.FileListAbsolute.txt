@@ -1,0 +1,15 @@
+D:\Checho\Proyectos C#\QR Generator\QR Generator\bin\Debug\QR Generator.exe.config
+D:\Checho\Proyectos C#\QR Generator\QR Generator\bin\Debug\QR Generator.exe
+D:\Checho\Proyectos C#\QR Generator\QR Generator\bin\Debug\QR Generator.pdb
+D:\Checho\Proyectos C#\QR Generator\QR Generator\bin\Debug\QRCoder.dll
+D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR Generator.csprojAssemblyReference.cache
+D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR_Generator.inicio.resources
+D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR_Generator.Properties.Resources.resources
+D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR Generator.csproj.GenerateResource.cache
+D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR Generator.csproj.CoreCompileInputs.cache
+D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR Generator.csproj.CopyComplete
+D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR Generator.exe
+D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR Generator.pdb
+D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR_Generator.TextQR.resources
+D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR_Generator.calendarEvent.resources
+D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR_Generator.GeolocationQR.resources
