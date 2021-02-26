@@ -1,4 +1,4 @@
-# QR-Generator - V0.2
+# QR Generator - V0.2
 
 
 QR Generator es un programa para generar códigos QR escaneables con diferentes funciones, cómo:
