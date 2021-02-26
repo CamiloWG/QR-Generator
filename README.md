@@ -1,7 +1,17 @@
-# QR-Generator
+# QR-Generator - V0.2
 
 
-QR Generator es un programa para generar códigos QR escaneables con diferentes funciones, como agregar contactos, localizar una ubicación en Google Maps, agregar un evento al calendario, entre otras muchas.
-Desarrollado completamente en C#.
+QR Generator es un programa para generar códigos QR escaneables con diferentes funciones, cómo:
 
-Aún se encuentra en desarrollo.
+- Generador de Texto 
+- Generador de Eventos para Calendario
+- Generador de Geolocalización
+- Geneardor de E-Mails
+- Generador de Contactos para teléfono móvil
+- Generador de Mensajes para WhatsApp
+- Generador de URL's
+- Generador de Conexiones a Redes Wifi
+
+
+Programa completamente desarollado en C# y continua en desarrollo.
+
