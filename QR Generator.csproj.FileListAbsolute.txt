@@ -16,3 +16,5 @@ D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR_Generator.Geolocat
 D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR_Generator.Mail.resources
 D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR_Generator.Contactos.resources
 D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR_Generator.Whatsapp.resources
+D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR_Generator.WiFi.resources
+D:\Checho\Proyectos C#\QR Generator\QR Generator\obj\Debug\QR_Generator.Url.resources
