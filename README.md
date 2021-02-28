@@ -1,4 +1,4 @@
-# QR Generator - V0.2
+# QR Generator - V0.5
 
 
 QR Generator es un programa para generar códigos QR escaneables con diferentes funciones, cómo:
@@ -11,6 +11,8 @@ QR Generator es un programa para generar códigos QR escaneables con diferentes 
 - Generador de Mensajes para WhatsApp
 - Generador de URL's
 - Generador de Conexiones a Redes Wifi
+
+Una vez generado tu código QR, puedes dar click sobre el para guardarlo en tu computadora y poder hacer con el lo que quieras.
 
 
 Programa completamente desarollado en C# y continua en desarrollo.
